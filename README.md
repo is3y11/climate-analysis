@@ -2,8 +2,7 @@
 
 ## Authors
 
-Ibrahim Sayoh
-Jonas
+Jonas Nyman, Ibrahim Sayoh 
 
 ## Further information
 
