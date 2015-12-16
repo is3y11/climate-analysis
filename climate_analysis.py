@@ -1,3 +1,6 @@
+"""Climate Analysis Tools
+Uses own internal library temp_conversion.py.
+"""
 import sys
 import temp_conversion
 import signal
