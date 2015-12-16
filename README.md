@@ -2,7 +2,9 @@
 
 ## Authors
 
-Jonas Nyman, Ibrahim Sayoh 
+Ibrahim Sayoh (the greatest)
+Jonas (the greatest)
+
 
 ## Further information
 
