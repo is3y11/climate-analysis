@@ -2,8 +2,10 @@
 
 ## Authors
 
-Ibrahim Sayoh
-Jonas
+Ibrahim Sayoh ( the greatest)
+Jonas (the greatest)
+
++++++++++++
 
 ## Further information
 
